@@ -18,13 +18,15 @@ Aplikasi ini menawarkan fitur:
 
 *Penghitungan Dua Angka*  
    Konversi Suhu Celcius, Fahrenheit, Kelvin, Reamur
+*Konversi Dari Kiri Ke Kanan Dan Dari Kanan Ke Kiri*
+   Memilih Konversi Mana Yang Mau Dimulai Terlebih Dahulu
 
 ## Cara Menjalankan
 
 1. Run File
-2. Ketikkan Angka Yang Kita Input
+2. Ketikkan Angka Yang Kita Input, Pilih Suhu 1 dan Suhu 2
 3. Tekan Suhu Yang Kita Konversi, Kemudian Pada Radio Button Pilih Suhu Yang Mau Di Konversi, Kemudian Tekan Konversi Pada Tombol Button Konversi, Maka Hasil Akan Tampil
 4. Tekan Button Keluar, jika ingin keluar 
 
 # Demo
-![App Screenshot](img/Suhu.png)
+![App Screenshot](img/KonversiSuhu.png)
