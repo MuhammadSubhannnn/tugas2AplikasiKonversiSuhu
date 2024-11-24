@@ -29,4 +29,4 @@ Aplikasi ini menawarkan fitur:
 4. Tekan Button Keluar, jika ingin keluar 
 
 # Demo
-![App Screenshot](img/KonversiSuhu.png)
+![App Screenshot](img/Tugas2AplikasiKonversiSuhu.gif)
